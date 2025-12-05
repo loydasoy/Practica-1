@@ -8,7 +8,7 @@ static int proceso2(int n2)
 {
     int p2 = 1;
     for(int i = 0; i < n2; i++) p2 += n2;
-    return p2;
+ add.    return p2;
     }
 public static void main (String args[])
 {
@@ -16,5 +16,6 @@ public static void main (String args[])
     int res = proceso1(num);
     }
 }
+//posible revision 
 
 
